@@ -2,7 +2,7 @@
 
 This is the first file in this repo
 
-## Websit Contents
+## Website Contents
 
 Here are the files in the website:
 
